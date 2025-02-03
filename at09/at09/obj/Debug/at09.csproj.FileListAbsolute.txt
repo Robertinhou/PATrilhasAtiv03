@@ -1,0 +1,6 @@
+C:\Users\Aluno_Tarde\Documents\SharpDevelop Projects\at09\at09\bin\Debug\at09.exe.config
+C:\Users\Aluno_Tarde\Documents\SharpDevelop Projects\at09\at09\bin\Debug\at09.exe
+C:\Users\Aluno_Tarde\Documents\SharpDevelop Projects\at09\at09\bin\Debug\at09.pdb
+C:\Users\Aluno_Tarde\Documents\SharpDevelop Projects\at09\at09\obj\Debug\at09.csprojResolveAssemblyReference.cache
+C:\Users\Aluno_Tarde\Documents\SharpDevelop Projects\at09\at09\obj\Debug\at09.exe
+C:\Users\Aluno_Tarde\Documents\SharpDevelop Projects\at09\at09\obj\Debug\at09.pdb
