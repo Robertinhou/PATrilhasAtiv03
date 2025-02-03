@@ -1,0 +1,6 @@
+C:\Users\Aluno_Tarde\Documents\SharpDevelop Projects\at10\at10\bin\Debug\at10.exe.config
+C:\Users\Aluno_Tarde\Documents\SharpDevelop Projects\at10\at10\bin\Debug\at10.exe
+C:\Users\Aluno_Tarde\Documents\SharpDevelop Projects\at10\at10\bin\Debug\at10.pdb
+C:\Users\Aluno_Tarde\Documents\SharpDevelop Projects\at10\at10\obj\Debug\at10.csprojResolveAssemblyReference.cache
+C:\Users\Aluno_Tarde\Documents\SharpDevelop Projects\at10\at10\obj\Debug\at10.exe
+C:\Users\Aluno_Tarde\Documents\SharpDevelop Projects\at10\at10\obj\Debug\at10.pdb
