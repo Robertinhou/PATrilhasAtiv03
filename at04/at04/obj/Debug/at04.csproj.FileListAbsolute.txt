@@ -1,0 +1,6 @@
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\at04\at04\bin\Debug\at04.exe.config
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\at04\at04\bin\Debug\at04.exe
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\at04\at04\bin\Debug\at04.pdb
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\at04\at04\obj\Debug\at04.csprojResolveAssemblyReference.cache
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\at04\at04\obj\Debug\at04.exe
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\at04\at04\obj\Debug\at04.pdb
